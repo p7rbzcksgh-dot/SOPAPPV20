@@ -1,0 +1,5 @@
+TCG SOP Wizard Clean 20 Spot Fix
+- ZIP is flat.
+- Only dashboard portrait button placement was adjusted.
+- Buttons sit directly under the WIZARD artwork.
+- Everything else from Clean 19 is unchanged.

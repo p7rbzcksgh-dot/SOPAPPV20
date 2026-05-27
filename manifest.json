@@ -1,0 +1,60 @@
+{
+  "name": "TCG SOP Wizard",
+  "short_name": "SOP Wizard",
+  "description": "TCG Machines fillable SOP builder for sub-assembly documentation.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "tcg-app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "tcg-app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Create A New SOP",
+      "short_name": "Create SOP",
+      "url": "create-sop.html",
+      "icons": [
+        {
+          "src": "tcg-app-icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Required SOPs",
+      "short_name": "Required",
+      "url": "required-sops.html",
+      "icons": [
+        {
+          "src": "tcg-app-icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Urgent Process Change",
+      "short_name": "Urgent",
+      "url": "urgent-process-change.html",
+      "icons": [
+        {
+          "src": "tcg-app-icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
